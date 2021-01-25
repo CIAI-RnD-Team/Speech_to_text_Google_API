@@ -5,6 +5,9 @@ Here is the link: Medium
 
 The blog explains the instructions to install the required libraries and run the python script. 
 
-The script allows users to take in voice input through a microphone and transcribes it into text. The program can be terminated by saying the key words "Good bye" or "bye 
+The script allows users to take in voice input through a microphone and transcribes it into text. The program can be terminated by saying the key words "Good bye" or "bye" 
+
+Please see below a few examples of me trying to say "how are you", "sky is blue" and "goodbye"
+
 
 
