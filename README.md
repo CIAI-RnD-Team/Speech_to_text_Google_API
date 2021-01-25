@@ -10,5 +10,6 @@ The script allows users to take in voice input through a microphone and transcri
 
 Please see below a few examples of me trying to say "how are you", "sky is blue" and "goodbye"
 
+![stt_output](https://user-images.githubusercontent.com/29509819/105772502-7d8dc500-5f1f-11eb-9eda-56fcae825290.png)
 
 
