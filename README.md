@@ -2,7 +2,7 @@
 
 This is the code for "Convert Speech to Text in 5 lines of Code" blog posted on Medium 
 
-Here is the link: Medium 
+Here is the link: [Medium](https://medium.com/customerinsights-ai/convert-speech-to-text-in-5-lines-of-code-f5c3884a8412)
 
 The blog explains the instructions to install the required libraries and run the python script. 
 
